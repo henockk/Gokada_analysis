@@ -1,3 +1,7 @@
+#data
+data/
+# Unignore the data folder inside the src directory
+!src/data/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
